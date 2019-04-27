@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "LinearAlgebra"
+title:  "Linear Algebra"
 date:   2019-04-07 16:21:23 +0900
-categories: LInear Algebra
+categories: linear algebra
 ---
 
 https://twlab.tistory.com/3
