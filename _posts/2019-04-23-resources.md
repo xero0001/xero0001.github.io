@@ -20,6 +20,7 @@ https://www.qstudy.kr/#
 
 https://ghebook.blogspot.com/2010/07/limit.html?m=1
 
+AWESOME AI BOOKS
 https://github.com/zslucky/awesome-AI-books/blob/master/README.md
 
 https://darkpgmr.tistory.com/m/132
