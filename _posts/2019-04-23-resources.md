@@ -7,6 +7,10 @@ tags:
 - resource
 ---
 
+## blog
+
+https://1ambda.blog/
+
 ## Mathematics
 
 생새우초밥
@@ -26,6 +30,9 @@ https://github.com/zslucky/awesome-AI-books/blob/master/README.md
 https://darkpgmr.tistory.com/m/132
 
 ## 강의, OCW
+
+convex opt
+http://www.stat.cmu.edu/~ryantibs/convexopt/
 
 선형대수, 미적분, 수치해석
 OS
