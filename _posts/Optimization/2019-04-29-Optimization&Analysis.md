@@ -1,4 +1,11 @@
-
+---
+title: Optimization and Analysis Resources
+date: 2019-04-29 15:00:00
+categories:
+- optimization
+tags:
+published: true
+---
 
 모두를 위한 컨벡스 최적화
 https://wikidocs.net/17052
