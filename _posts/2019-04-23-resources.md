@@ -6,6 +6,12 @@ categories:
 tags:
 - resource
 ---
+# 모두의 연구소
+http://pay.modulabs.co.kr/register_171222/
+
+
+# 세벌식
+https://xn--pk3bl9feqb.kr/
 
 ## blog
 
