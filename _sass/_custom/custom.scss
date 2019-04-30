@@ -1,1 +1,4 @@
 // Custom styles.
+h3::before {
+    content: "- ";
+}

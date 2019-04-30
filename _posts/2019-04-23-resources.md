@@ -6,6 +6,16 @@ categories:
 tags:
 - resource
 ---
+# 모두의 연구소
+http://pay.modulabs.co.kr/register_171222/
+
+
+# 세벌식
+https://xn--pk3bl9feqb.kr/
+
+## blog
+
+https://1ambda.blog/
 
 ## Mathematics
 
@@ -20,11 +30,15 @@ https://www.qstudy.kr/#
 
 https://ghebook.blogspot.com/2010/07/limit.html?m=1
 
+AWESOME AI BOOKS
 https://github.com/zslucky/awesome-AI-books/blob/master/README.md
 
 https://darkpgmr.tistory.com/m/132
 
 ## 강의, OCW
+
+convex opt
+http://www.stat.cmu.edu/~ryantibs/convexopt/
 
 선형대수, 미적분, 수치해석
 OS
