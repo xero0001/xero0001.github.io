@@ -6,6 +6,9 @@ categories:
 tags:
 ---
 
+https://www.youtube.com/watch?v=xC-c7E5PK0Y  
+https://www.youtube.com/watch?v=mxc4cquvRUk
+
 # Free DS Resources
 
 PYTHON BASICS
