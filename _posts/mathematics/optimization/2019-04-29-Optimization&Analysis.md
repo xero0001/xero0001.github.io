@@ -12,6 +12,8 @@ https://wikidocs.net/17052
 
 컨벡스 최적화 OCW
 http://www.stat.cmu.edu/~ryantibs/convexopt/
+http://www.stat.cmu.edu/~ryantibs/convexopt-F16/
+https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
 
 수치해석은 KMOOC
 
