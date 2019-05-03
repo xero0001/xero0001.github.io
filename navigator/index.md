@@ -3,15 +3,24 @@ layout: page
 ---
 
 # Mathematics
-### Linear Algebra by Gilbert Strang
+## Linear Algebra by Gilbert Strang
 * [LA_00: Intro](https://xero0001.github.io/mathematics/2019/04/27/LA_00/)  
 
-##### UNIT I
+#### UNIT I: AX = B AND THE FOUR SUBSPACES
 * [LA_01: Introductions to Vectors](https://xero0001.github.io/mathematics/2019/04/27/LA_01/)  
 * [LA_02: Solving Linear Equations](https://xero0001.github.io/mathematics/2019/04/27/LA_02/)  
 * [LA_03: Vector Spaces and Subspaces](https://xero0001.github.io/mathematics/2019/04/28/LA_03/)  
 
-##### UNIT II
+#### UNIT II: LEAST SQUARES, DETERMINANTS, EIGENVALUES AND Singular Value Decomposition
+* [LA_04: Orthogonality](https://xero0001.github.io/mathematics/2019/05/01/LA_04/)  
+* [LA_05: Determinants](https://xero0001.github.io/mathematics/2019/05/03/LA_05/)  
+* [LA_06: Eigenvalues and Eigenvectors](https://xero0001.github.io/mathematics/2019/05/04/LA_06/)  
+* [LA_07: The Singular Value Decomposition](https://xero0001.github.io/mathematics/2019/05/06/LA_07/)  
+
+#### UNIT III: APPLICATIONS
+
+
+- - -
 
 # Statistics
 ##### UNIT I
