@@ -26,7 +26,7 @@ layout: page
 
 #### UNIT III: APPLICATIONS
 
-<font color="#F44336"><h2>Engineering Mathematics - Kreyszig</h2></font>
+<font color="#F44336"><h2>Engineering Mathematics by Erwin Kreyszig</h2></font>
 
 #### UNIT A
 
@@ -35,6 +35,7 @@ layout: page
 - [EM_03: 2nd Order ODE](https://xero0001.github.io/mathematics/2019/05/09/EM_03/)
 - [EM_04: 2nd Order ODE - Homogeneous](https://xero0001.github.io/mathematics/2019/05/13/EM_04/)
 - [EM_05: 2nd Order ODE - Nonhomogeneous](https://xero0001.github.io/mathematics/2019/05/17/EM_05/)
+- [EM_06: Power Series Method](https://xero0001.github.io/mathematics/2019/05/17/EM_06/)
 
 ---
 
