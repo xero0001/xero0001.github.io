@@ -1,8 +1,11 @@
 ---
+title: Math&Stat
 layout: page
 ---
 
-# Mathematics
+주제별로 공부한것들을 정리.
+
+<font color="#3700B3"><h1>Mathematics</h1><font>
 
 ## Linear Algebra by Gilbert Strang
 
@@ -23,19 +26,7 @@ layout: page
 
 #### UNIT III: APPLICATIONS
 
----
-
-# Statistics
-
-##### UNIT I
-
-- [ST110_01: Probability and Counting](https://xero0001.github.io/statistics/2019/04/24/stat110-1/)
-
----
-
-# Engineering Mathematics
-
-## Kreyszig
+## Engineering Mathematics - Kreyszig
 
 #### UNIT A
 
@@ -44,3 +35,11 @@ layout: page
 - [EM_03: 2nd Order ODE](https://xero0001.github.io/mathematics/2019/05/08/EM_03/)
 - [EM_04: 2nd Order ODE - Homogeneous](https://xero0001.github.io/mathematics/2019/05/08/EM_04/)
 - [EM_05: 2nd Order ODE - Nonhomogeneous](https://xero0001.github.io/mathematics/2019/05/17/EM_05/)
+
+---
+
+<font color="#3700B3"><h1>Statistics</h1><font>
+
+##### UNIT I
+
+- [ST110_01: Probability and Counting](https://xero0001.github.io/statistics/2019/04/24/stat110-1/)
