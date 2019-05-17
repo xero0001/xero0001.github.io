@@ -32,8 +32,8 @@ layout: page
 
 - [EM_01: Introduction](https://xero0001.github.io/mathematics/2019/05/08/EM_01/)
 - [EM_02: 1st Order ODE](https://xero0001.github.io/mathematics/2019/05/08/EM_02/)
-- [EM_03: 2nd Order ODE](https://xero0001.github.io/mathematics/2019/05/08/EM_03/)
-- [EM_04: 2nd Order ODE - Homogeneous](https://xero0001.github.io/mathematics/2019/05/08/EM_04/)
+- [EM_03: 2nd Order ODE](https://xero0001.github.io/mathematics/2019/05/09/EM_03/)
+- [EM_04: 2nd Order ODE - Homogeneous](https://xero0001.github.io/mathematics/2019/05/13/EM_04/)
 - [EM_05: 2nd Order ODE - Nonhomogeneous](https://xero0001.github.io/mathematics/2019/05/17/EM_05/)
 
 ---
