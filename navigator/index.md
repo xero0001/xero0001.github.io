@@ -44,4 +44,4 @@ layout: page
 
 ##### UNIT I
 
-- [ST110_01: Probability and Counting](https://xero0001.github.io/statistics/2019/04/24/stat110-1/)
+- [ST_01: Probability and Counting](https://xero0001.github.io/statistics/2019/04/24/stat110-1/)
