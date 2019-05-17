@@ -5,7 +5,7 @@ layout: page
 
 주제별로 공부한것들을 정리.
 
-<font color="#3700B3"><h1>Mathematics</h1><font>
+<font color="#3700B3"><h1>Mathematics</h1></font>
 
 ## Linear Algebra by Gilbert Strang
 
@@ -38,7 +38,7 @@ layout: page
 
 ---
 
-<font color="#3700B3"><h1>Statistics</h1><font>
+<font color="#3700B3"><h1>Statistics</h1></font>
 
 ##### UNIT I
 
