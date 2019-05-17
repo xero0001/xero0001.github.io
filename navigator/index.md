@@ -3,7 +3,7 @@ title: Math&Stat
 layout: page
 ---
 
-주제별로 공부한것들을 정리.
+수학, 통계학, 데이터 사이언스, 인공지능 관련하여 공부한 것을 정리하고 있습니다.
 
 <font color="#3700B3"><h1>Mathematics</h1></font>
 
@@ -17,14 +17,19 @@ layout: page
 - [LA_02: Solving Linear Equations](https://xero0001.github.io/mathematics/2019/04/27/LA_02/)
 - [LA_03: Vector Spaces and Subspaces](https://xero0001.github.io/mathematics/2019/04/28/LA_03/)
 
-#### UNIT II: LEAST SQUARES, DETERMINANTS, EIGENVALUES AND Singular Value Decomposition
+#### UNIT II: LEAST SQUARES, DETERMINANTS, EIGENVALUES
 
 - [LA_04: Orthogonality](https://xero0001.github.io/mathematics/2019/05/01/LA_04/)
 - [LA_05: Determinants](https://xero0001.github.io/mathematics/2019/05/03/LA_05/)
 - [LA_06: Eigenvalues and Eigenvectors](https://xero0001.github.io/mathematics/2019/05/04/LA_06/)
-- [LA_07: The Singular Value Decomposition](https://xero0001.github.io/mathematics/2019/05/06/LA_07/)
 
-#### UNIT III: APPLICATIONS
+#### UNIT III: POSITIVE DEFINITE MATRICES AND APPLICATIONS
+
+- [LA_07: Positive Definite Matrices](https://xero0001.github.io/mathematics/2019/05/05/LA_07/)
+- [LA_08: The Singular Value Decomposition](https://xero0001.github.io/mathematics/2019/05/06/LA_07/)
+- [LA_09: Linear Transformation](https://xero0001.github.io/mathematics/2019/05/10/LA_09/)
+- [LA_10: Complex Vectors and Matrices](https://xero0001.github.io/mathematics/2019/05/20/LA_10/)
+- [LA_11: Applications](https://xero0001.github.io/mathematics/2019/05/22/LA_11/)
 
 <font color="#F44336"><h2>Engineering Mathematics by Erwin Kreyszig</h2></font>
 
