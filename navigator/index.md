@@ -7,7 +7,7 @@ layout: page
 
 <font color="#3700B3"><h1>Mathematics</h1></font>
 
-## Linear Algebra by Gilbert Strang
+<font color="#F44336"><h2>Linear Algebra by Gilbert Strang</h2></font>
 
 - [LA_00: Intro](https://xero0001.github.io/mathematics/2019/04/27/LA_00/)
 
@@ -26,7 +26,7 @@ layout: page
 
 #### UNIT III: APPLICATIONS
 
-## Engineering Mathematics - Kreyszig
+<font color="#F44336"><h2>Engineering Mathematics - Kreyszig</h2></font>
 
 #### UNIT A
 
@@ -39,6 +39,8 @@ layout: page
 ---
 
 <font color="#3700B3"><h1>Statistics</h1></font>
+
+<font color="#F44336"><h2>Statistics 110: Probability</h2></font>
 
 ##### UNIT I
 
