@@ -7,9 +7,9 @@ layout: page
 
 ---
 
-<font color="#3700B3"><h1>Mathematics</h1></font>
+# Mathematics
 
-<font color="#F44336"><h2>Linear Algebra by Gilbert Strang</h2></font>
+## Linear Algebra by Gilbert Strang
 
 #### UNIT I: AX = B AND THE FOUR SUBSPACES
 
@@ -31,7 +31,7 @@ layout: page
 - [LA_10: Complex Vectors and Matrices](https://xero0001.github.io/mathematics/2019/05/20/LA_10/)
 - [LA_11: Applications](https://xero0001.github.io/mathematics/2019/05/22/LA_11/)
 
-<font color="#F44336"><h2>Engineering Mathematics by Erwin Kreyszig</h2></font>
+## Engineering Mathematics by Erwin Kreyszig
 
 #### PART A: Ordinary Differential Equations
 
@@ -44,12 +44,30 @@ layout: page
 - [EM_07: Legendre Equation](https://xero0001.github.io/mathematics/2019/05/18/EM_07/)
 - [EM_07: Frobenius Method](https://xero0001.github.io/mathematics/2019/05/18/EM_08/)
 
+## Numerical Analysis by Hyun Min Kim
+
 ---
 
-<font color="#3700B3"><h1>Statistics</h1></font>
+# Statistics
 
-<font color="#F44336"><h2>Statistics 110: Probability</h2></font>
+## Statistics 110: Probability
 
 ##### UNIT I
 
-- [ST_01: Probability and Counting](https://xero0001.github.io/statistics/2019/04/24/stat110-1/)
+- [ST_01: Probability and Counting](https://xero0001.github.io/statistics/2019/04/24/ST_01/)
+- [ST_02: Conditional Probability](https://xero0001.github.io/statistics/2019/05/08/ST_02/)
+- [ST_03: Random Variables and Their Distribution](https://xero0001.github.io/statistics/2019/05/08/ST_03/)
+- [ST_02: Expectation](https://xero0001.github.io/statistics/2019/05/09/ST_04/)
+
+---
+
+# Plan
+
+1. 선형대수학 완강
+2. 공학수학 완강
+3. 수치해석 완강
+4. Convex Optimization 완강
+5. Kmooc - 머신러닝 완강
+6. Kmooc - 데이터마이닝 완강
+7. STAT110 완강
+8. 이지형 교수님 강의 마저듣기
