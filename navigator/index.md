@@ -41,6 +41,7 @@ layout: page
 - [EM_04: 2nd Order ODE - Homogeneous](https://xero0001.github.io/mathematics/2019/05/13/EM_04/)
 - [EM_05: 2nd Order ODE - Nonhomogeneous](https://xero0001.github.io/mathematics/2019/05/17/EM_05/)
 - [EM_06: Power Series Method](https://xero0001.github.io/mathematics/2019/05/17/EM_06/)
+- [EM_07: Legendre Equation](https://xero0001.github.io/mathematics/2019/05/18/EM_07/)
 
 ---
 
