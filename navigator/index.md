@@ -46,6 +46,18 @@ layout: page
 
 ## Numerical Analysis by Hyun Min Kim
 
+- [NA_01: Introduction](https://xero0001.github.io/mathematics/2019/05/07/NA_01/)
+- [NA_02: Non-linear Equation](https://xero0001.github.io/mathematics/2019/05/07/NA_02/)
+- [NA_03: Error Analysis](https://xero0001.github.io/mathematics/2019/05/08/NA_03/)
+
+## Convex Optimization
+
+## Calculus
+
+#### PART A: Single Variable Calculus
+
+#### PART B: Multi Variable Calculus
+
 ---
 
 # Statistics
@@ -57,7 +69,14 @@ layout: page
 - [ST_01: Probability and Counting](https://xero0001.github.io/statistics/2019/04/24/ST_01/)
 - [ST_02: Conditional Probability](https://xero0001.github.io/statistics/2019/05/08/ST_02/)
 - [ST_03: Random Variables and Their Distribution](https://xero0001.github.io/statistics/2019/05/08/ST_03/)
-- [ST_02: Expectation](https://xero0001.github.io/statistics/2019/05/09/ST_04/)
+- [ST_04: Expectation](https://xero0001.github.io/statistics/2019/05/09/ST_04/)
+- ST_05: Continuous Random Variables
+- ST_06: Moments
+- ST_07: Joint Distribution
+- ST_08: Transformations
+- ST_09: Conditional Expectation
+- ST_10: Inequalities and Limit Theorems
+- ST_11: Markov Chains
 
 ---
 
@@ -69,5 +88,6 @@ layout: page
 4. Convex Optimization 완강
 5. Kmooc - 머신러닝 완강
 6. Kmooc - 데이터마이닝 완강
-7. STAT110 완강
-8. 이지형 교수님 강의 마저듣기
+7. Kmooc - 이지형 교수님 강의 마저듣기
+8. STAT110 완강
+9.
