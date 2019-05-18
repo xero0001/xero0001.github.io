@@ -33,7 +33,7 @@ layout: page
 
 <font color="#F44336"><h2>Engineering Mathematics by Erwin Kreyszig</h2></font>
 
-#### PART A: ODE
+#### PART A: Ordinary Differential Equations
 
 - [EM_01: Introduction](https://xero0001.github.io/mathematics/2019/05/08/EM_01/)
 - [EM_02: 1st Order ODE](https://xero0001.github.io/mathematics/2019/05/08/EM_02/)
