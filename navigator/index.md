@@ -1,9 +1,11 @@
 ---
-title: Math&Stat
+title:
 layout: page
 ---
 
 수학, 통계학, 데이터 사이언스, 인공지능 관련하여 공부한 것을 정리하고 있습니다.
+
+---
 
 <font color="#3700B3"><h1>Mathematics</h1></font>
 
@@ -31,7 +33,7 @@ layout: page
 
 <font color="#F44336"><h2>Engineering Mathematics by Erwin Kreyszig</h2></font>
 
-#### UNIT A
+#### PART A: ODE
 
 - [EM_01: Introduction](https://xero0001.github.io/mathematics/2019/05/08/EM_01/)
 - [EM_02: 1st Order ODE](https://xero0001.github.io/mathematics/2019/05/08/EM_02/)
