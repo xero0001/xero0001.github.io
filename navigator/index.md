@@ -9,15 +9,13 @@ layout: page
 
 <font color="#F44336"><h2>Linear Algebra by Gilbert Strang</h2></font>
 
-- [LA_00: Intro](https://xero0001.github.io/mathematics/2019/04/27/LA_00/)
-
 #### UNIT I: AX = B AND THE FOUR SUBSPACES
 
 - [LA_01: Introductions to Vectors](https://xero0001.github.io/mathematics/2019/04/27/LA_01/)
 - [LA_02: Solving Linear Equations](https://xero0001.github.io/mathematics/2019/04/27/LA_02/)
 - [LA_03: Vector Spaces and Subspaces](https://xero0001.github.io/mathematics/2019/04/28/LA_03/)
 
-#### UNIT II: LEAST SQUARES, DETERMINANTS, EIGENVALUES
+#### UNIT II: LEAST SQUARES, DETERMINANTS AND EIGENVALUES
 
 - [LA_04: Orthogonality](https://xero0001.github.io/mathematics/2019/05/01/LA_04/)
 - [LA_05: Determinants](https://xero0001.github.io/mathematics/2019/05/03/LA_05/)
@@ -42,6 +40,7 @@ layout: page
 - [EM_05: 2nd Order ODE - Nonhomogeneous](https://xero0001.github.io/mathematics/2019/05/17/EM_05/)
 - [EM_06: Power Series Method](https://xero0001.github.io/mathematics/2019/05/17/EM_06/)
 - [EM_07: Legendre Equation](https://xero0001.github.io/mathematics/2019/05/18/EM_07/)
+- [EM_07: Frobenius Method](https://xero0001.github.io/mathematics/2019/05/18/EM_08/)
 
 ---
 
