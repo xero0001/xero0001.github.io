@@ -93,4 +93,4 @@ layout: page
 6. Kmooc - 데이터마이닝 완강
 7. Kmooc - 이지형 교수님 강의 마저듣기
 8. STAT110 완강
-9.
+9. [MLWIKI](http://mlwiki.org/index.php/Courses)
