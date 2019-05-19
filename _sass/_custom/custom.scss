@@ -1,4 +1,34 @@
 // Custom styles.
 h3::before {
-    content: "- ";
+  content: "> ";
+}
+
+.post-body h1 {
+  font-size: 28px;
+  color: #3700b3;
+}
+
+.post-body h2 {
+  color: #f44336;
+}
+
+.post-body h3 {
+  color: black;
+}
+/* 
+  .post-body h4 {
+    color: #ff80ab;
+  } */
+
+.page-home h1,
+.page-home h2,
+.page-home h3,
+.page-home h4 {
+  color: #555;
+}
+
+@media (max-width: 767px) {
+  .post-body h1 {
+    font-size: 21px;
+  }
 }
