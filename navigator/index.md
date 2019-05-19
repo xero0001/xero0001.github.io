@@ -42,7 +42,10 @@ layout: page
 - [EM_05: 2nd Order ODE - Nonhomogeneous](https://xero0001.github.io/mathematics/2019/05/17/EM_05/)
 - [EM_06: Power Series Method](https://xero0001.github.io/mathematics/2019/05/17/EM_06/)
 - [EM_07: Legendre Equation](https://xero0001.github.io/mathematics/2019/05/18/EM_07/)
-- [EM_07: Frobenius Method](https://xero0001.github.io/mathematics/2019/05/18/EM_08/)
+- [EM_08: Frobenius Method](https://xero0001.github.io/mathematics/2019/05/18/EM_08/)
+- [EM_09: Bessel Equation](https://xero0001.github.io/mathematics/2019/05/19/EM_09/)
+- [EM_10: Laplace Transformation](https://xero0001.github.io/mathematics/2019/05/20/EM_10/)
+- [EM_11: Wrap Up](https://xero0001.github.io/mathematics/2019/05/20/EM_11/)
 
 ## Numerical Analysis by Hyun Min Kim
 
