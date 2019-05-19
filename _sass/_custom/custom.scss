@@ -3,16 +3,19 @@ h3::before {
   content: "> ";
 }
 
-.post-body h1 {
+.post-body h1,
+.page-post-detail h1 {
   font-size: 28px;
   color: #3700b3;
 }
 
-.post-body h2 {
+.post-body h2,
+.page-post-detail h2 {
   color: #f44336;
 }
 
-.post-body h3 {
+.post-body h3,
+.page-post-detail h3 {
   color: black;
 }
 /* 
@@ -28,7 +31,8 @@ h3::before {
 }
 
 @media (max-width: 767px) {
-  .post-body h1 {
+  .post-body h1,
+  .page-post-detail h1 {
     font-size: 21px;
   }
 }
