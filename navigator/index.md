@@ -87,7 +87,7 @@ layout: page
 
 # Plan
 
-1. 선형대수학 완강 ✔ 복습
+1. 선형대수학 완강 ✔ 복습 ️
 2. 공학수학 A 완강 ✔ 복습 ✔
 3. 수치해석 완강
 4. Convex Optimization 완강
