@@ -35,15 +35,15 @@ layout: page
 
 #### PART A: Ordinary Differential Equations
 
-- [EM_01: Introduction](https://xero0001.github.io/mathematics/2019/05/08/EM_01/)
-- [EM_02: 1st Order ODE](https://xero0001.github.io/mathematics/2019/05/08/EM_02/)
-- [EM_03: 2nd Order ODE](https://xero0001.github.io/mathematics/2019/05/09/EM_03/)
-- [EM_04: 2nd Order ODE - Homogeneous](https://xero0001.github.io/mathematics/2019/05/13/EM_04/)
-- [EM_05: 2nd Order ODE - Nonhomogeneous](https://xero0001.github.io/mathematics/2019/05/17/EM_05/)
-- [EM_06: Power Series Method](https://xero0001.github.io/mathematics/2019/05/17/EM_06/)
-- [EM_07: Legendre Equation](https://xero0001.github.io/mathematics/2019/05/18/EM_07/)
-- [EM_08: Frobenius Method](https://xero0001.github.io/mathematics/2019/05/18/EM_08/)
-- [EM_09: Bessel Equation](https://xero0001.github.io/mathematics/2019/05/19/EM_09/)
+- [EM_01: Introduction](https://xero0001.github.io/mathematics/2019/05/20/EM_01/)
+- [EM_02: 1st Order ODE](https://xero0001.github.io/mathematics/2019/05/20/EM_02/)
+- [EM_03: 2nd Order ODE](https://xero0001.github.io/mathematics/2019/05/20/EM_03/)
+- [EM_04: 2nd Order ODE - Homogeneous](https://xero0001.github.io/mathematics/2019/05/20/EM_04/)
+- [EM_05: 2nd Order ODE - Nonhomogeneous](https://xero0001.github.io/mathematics/2019/05/20/EM_05/)
+- [EM_06: Power Series Method](https://xero0001.github.io/mathematics/2019/05/20/EM_06/)
+- [EM_07: Legendre Equation](https://xero0001.github.io/mathematics/2019/05/20/EM_07/)
+- [EM_08: Frobenius Method](https://xero0001.github.io/mathematics/2019/05/20/EM_08/)
+- [EM_09: Bessel Equation](https://xero0001.github.io/mathematics/2019/05/20/EM_09/)
 - [EM_10: Laplace Transform](https://xero0001.github.io/mathematics/2019/05/20/EM_10/)
 - [EM_11: Wrap Up](https://xero0001.github.io/mathematics/2019/05/20/EM_11/)
 
