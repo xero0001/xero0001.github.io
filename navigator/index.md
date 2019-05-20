@@ -86,7 +86,7 @@ layout: page
 # Plan
 
 1. 선형대수학 완강
-2. 공학수학 완강
+2. 공학수학 A 완강
 3. 수치해석 완강
 4. Convex Optimization 완강
 5. Kmooc - 머신러닝 완강
@@ -94,3 +94,5 @@ layout: page
 7. Kmooc - 이지형 교수님 강의 마저듣기
 8. STAT110 완강
 9. [MLWIKI](http://mlwiki.org/index.php/Courses)
+10. 실해석학
+11. 복소해석학
