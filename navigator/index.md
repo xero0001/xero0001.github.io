@@ -55,6 +55,8 @@ layout: page
 
 ## Convex Optimization
 
+- [CO_01: Introduction]
+
 ## Calculus
 
 #### PART A: Single Variable Calculus
@@ -85,8 +87,8 @@ layout: page
 
 # Plan
 
-1. 선형대수학 완강
-2. 공학수학 A 완강
+1. 선형대수학 완강 ✔ 복습
+2. 공학수학 A 완강 ✔ 복습 ✔
 3. 수치해석 완강
 4. Convex Optimization 완강
 5. Kmooc - 머신러닝 완강
