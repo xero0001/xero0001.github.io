@@ -69,19 +69,17 @@ layout: page
 
 ## Statistics 110: Probability
 
-##### UNIT I
-
-- [ST_01: Probability and Counting](https://xero0001.github.io/statistics/2019/04/24/ST_01/)
-- [ST_02: Conditional Probability](https://xero0001.github.io/statistics/2019/05/08/ST_02/)
-- [ST_03: Random Variables and Their Distribution](https://xero0001.github.io/statistics/2019/05/08/ST_03/)
-- [ST_04: Expectation](https://xero0001.github.io/statistics/2019/05/09/ST_04/)
-- ST_05: Continuous Random Variables
-- ST_06: Moments
-- ST_07: Joint Distribution
-- ST_08: Transformations
-- ST_09: Conditional Expectation
-- ST_10: Inequalities and Limit Theorems
-- ST_11: Markov Chains
+- [ST_01: Probability and Counting](https://xero0001.github.io/statistics/2019/05/24/ST_01/)
+- [ST_02: Conditional Probability](https://xero0001.github.io/statistics/2019/05/24/ST_02/)
+- [ST_03: Random Variables and Their Distribution](https://xero0001.github.io/statistics/2019/05/24/ST_03/)
+- [ST_04: Expectation](https://xero0001.github.io/statistics/2019/05/24/ST_04/)
+- [ST_05: Continuous Random Variables](https://xero0001.github.io/statistics/2019/05/24/ST_05/)
+- [ST_06: Moments](https://xero0001.github.io/statistics/2019/05/24/ST_06/)
+- [ST_07: Joint Distribution](https://xero0001.github.io/statistics/2019/05/24/ST_07/)
+- [ST_08: Transformations](https://xero0001.github.io/statistics/2019/05/24/ST_08/)
+- [ST_09: Conditional Expectation](https://xero0001.github.io/statistics/2019/05/24/ST_09/)
+- [ST_10: Inequalities and Limit Theorems](https://xero0001.github.io/statistics/2019/05/24/ST_10/)
+- [ST_11: Markov Chains](https://xero0001.github.io/statistics/2019/05/24/ST_11/)
 
 ---
 
