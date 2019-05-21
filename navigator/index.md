@@ -98,8 +98,6 @@ layout: page
 
 # Machine Learning
 
-##
-
 ---
 
 # Plan
