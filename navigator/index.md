@@ -100,7 +100,7 @@ layout: page
 
 ---
 
-# Plan
+# What to Learn
 
 1. Andrew Ng Machine Learning 완강 ✔️
 2. Andrew Ng Deep Learning 완강 ✔️
@@ -119,10 +119,17 @@ layout: page
 
 ---
 
-# Just wishlist
+# Wishlist
 
-- 실해석학
-- 복소해석학
+- Analysis
+- Basic Measure Theory
+
+---
+
+# What not to Learn Deeply
+
+- Measure Theory
+- Probability Theory
 
 ---
 
