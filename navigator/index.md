@@ -85,8 +85,8 @@ layout: page
 
 # Plan
 
-1. Andrew Ng ML 완강 ✔
-2. Andrew Ng DL 완강 ✔
+1. Andrew Ng Machine Learning 완강 ✔
+2. Andrew Ng Deep Learning 완강 ✔
 3. 선형대수학 완강 ✔
 4. 공학수학 A 완강 ✔ 복습 ✔
 5. 수치해석 완강
