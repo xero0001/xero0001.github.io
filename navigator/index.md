@@ -102,21 +102,20 @@ layout: page
 
 # Plan
 
-1. Andrew Ng Machine Learning 완강 ✔✔
-2. Andrew Ng Deep Learning 완강 ✔✔
-3. 선형대수학 완강 ✔✔
-4. 공학수학 A 완강 ✔✔ 복습 Convolution 추가
-5. 수치해석 시작 ✔
-6. Convex Optimization 시작 ✔
-7. Kmooc - 머신러닝 완강
-8. Kmooc - 데이터마이닝 완강
-9. Kmooc - 이지형 교수님 강의 시작 ✔
-10. STAT110 시작 ✔
-11. [Graphical model](https://www.coursera.org/specializations/probabilistic-graphical-models)
-12. [Stat method for ML](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
-13. [Learn from Kagglers](https://www.coursera.org/learn/competitive-data-science?authMode=login&recoOrder=15&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg&utm_medium=email&utm_source=recommendations)
-14. [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg)
-15. [Intermediate Stat](http://www.stat.cmu.edu/~larry/=stat705/)
+1. Andrew Ng Machine Learning 완강 ✔️
+2. Andrew Ng Deep Learning 완강 ✔️
+3. 선형대수학 완강 ✔️ 복습 ✍
+4. 공학수학 A 완강 ✔️ 복습 ✍ Convolution 추가
+5. 수치해석 시작 ✍
+6. Convex Optimization 시작 ✍
+7. Kmooc - 서울대 인공지능 기초 완강 ✔️ 머신러닝 데이터마이닝
+8. Kmooc - 이지형 교수님 강의 시작 ✍
+9. STAT110 시작 ✍
+10. [Graphical model](https://www.coursera.org/specializations/probabilistic-graphical-models)
+11. [Stat method for ML](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
+12. [Learn from Kagglers](https://www.coursera.org/learn/competitive-data-science?authMode=login&recoOrder=15&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg&utm_medium=email&utm_source=recommendations)
+13. [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg)
+14. [Intermediate Stat](http://www.stat.cmu.edu/~larry/=stat705/)
 
 ---
 
