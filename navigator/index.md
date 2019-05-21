@@ -74,7 +74,11 @@ layout: page
 
 #### PART A: Single Variable Calculus
 
+- [SC_01](https://xero0001.github.io/mathematics/2019/05/19/SC_01/)
+
 #### PART B: Multi Variable Calculus
+
+- [MC_01](https://xero0001.github.io/mathematics/2019/05/29/MC_01/)
 
 ---
 
@@ -121,15 +125,8 @@ layout: page
 
 # Wishlist
 
-- Analysis
 - Basic Measure Theory
-
----
-
-# What not to Learn Deeply
-
-- Measure Theory
-- Probability Theory
+- Analysis
 
 ---
 
