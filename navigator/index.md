@@ -85,14 +85,18 @@ layout: page
 
 # Plan
 
-1. 선형대수학 완강 ✔ 복습 ️
-2. 공학수학 A 완강 ✔ 복습 ✔
-3. 수치해석 완강
-4. Convex Optimization 완강
-5. Kmooc - 머신러닝 완강
-6. Kmooc - 데이터마이닝 완강
-7. Kmooc - 이지형 교수님 강의 마저듣기
-8. STAT110 완강
-9. [MLWIKI](http://mlwiki.org/index.php/Courses)
-10. 실해석학
-11. 복소해석학
+1. Andrew Ng ML 완강 ✔
+2. Andrew Ng DL 완강 ✔
+3. 선형대수학 완강 ✔
+4. 공학수학 A 완강 ✔ 복습 ✔
+5. 수치해석 완강
+6. Convex Optimization 완강
+7. Kmooc - 머신러닝 완강
+8. Kmooc - 데이터마이닝 완강
+9. Kmooc - 이지형 교수님 강의 마저듣기
+10. STAT110 완강
+11. [MLWIKI](http://mlwiki.org/index.php/Courses)
+12. 실해석학
+13. 복소해석학
+14. [Learn from Kagglers](https://www.coursera.org/learn/competitive-data-science?authMode=login&recoOrder=15&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg&utm_medium=email&utm_source=recommendations)
+15. [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg)
