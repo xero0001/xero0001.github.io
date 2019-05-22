@@ -109,7 +109,7 @@ layout: page
 1. Andrew Ng Machine Learning 완강 ✔️
 2. Andrew Ng Deep Learning 완강 ✔️
 3. 선형대수학 완강 ✔️ 복습 ✍
-4. 공학수학 A 완강 ✔️ 복습 ✔️ Convolution 추가
+4. 공학수학 A 완강 ✔️ Convolution 추가
 5. Single Variable Calculus 복습 ✔️
 6. Multivariable Calculus 복습 ✍
 7. 수치해석 시작 ✍
