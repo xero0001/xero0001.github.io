@@ -109,7 +109,7 @@ layout: page
 1. Andrew Ng Machine Learning 완강 ✔️
 2. Andrew Ng Deep Learning 완강 ✔️
 3. 선형대수학 완강 ✔️ 복습 ✍
-4. 공학수학 A 완강 ✔️ 복습 ✍ Convolution 추가
+4. 공학수학 A 완강 ✔️ 복습 ✔️ Convolution 추가
 5. Single Variable Calculus 복습 ✔️
 6. Multivariable Calculus 복습 ✍
 7. 수치해석 시작 ✍
@@ -136,3 +136,7 @@ layout: page
 
 - [MLWIKI](http://mlwiki.org/index.php/Courses)
 - [Neural Networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [Elements of AI](https://artint.info/2e/html/ArtInt2e.html)
+
+http://people.duke.edu/~kh269/teaching/b551/schedule.htm
+http://people.duke.edu/~kh269/teaching/b553/schedule.htm
