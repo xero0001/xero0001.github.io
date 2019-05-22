@@ -110,8 +110,8 @@ layout: page
 2. Andrew Ng Deep Learning 완강 ✔️
 3. 선형대수학 완강 ✔️ 복습 ✍
 4. 공학수학 A 완강 ✔️ Convolution 추가
-5. Single Variable Calculus 복습 ✔️
-6. Multivariable Calculus 복습 ✍
+5. Single Variable Calculus 정리 ✔️
+6. Multivariable Calculus 정리 ✔️
 7. 수치해석 시작 ✍
 8. Convex Optimization 시작 ✍
 9. Kmooc - 서울대 인공지능 기초 완강 ✔️ 머신러닝 데이터마이닝
