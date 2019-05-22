@@ -26,7 +26,7 @@ layout: page
 #### UNIT III: POSITIVE DEFINITE MATRICES AND APPLICATIONS
 
 - [LA_07: Positive Definite Matrices](https://xero0001.github.io/mathematics/2019/05/05/LA_07/)
-- [LA_08: The Singular Value Decomposition](https://xero0001.github.io/mathematics/2019/05/06/LA_08/)
+- [LA_08: The Singular Value Decomposition and PCA](https://xero0001.github.io/mathematics/2019/05/06/LA_08/)
 - [LA_09: Linear Transformation](https://xero0001.github.io/mathematics/2019/05/10/LA_09/)
 - [LA_10: Complex Vectors and Matrices](https://xero0001.github.io/mathematics/2019/05/20/LA_10/)
 - [LA_11: Applications](https://xero0001.github.io/mathematics/2019/05/22/LA_11/)
