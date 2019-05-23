@@ -122,6 +122,7 @@ layout: page
 14. [Learn from Kagglers](https://www.coursera.org/learn/competitive-data-science?authMode=login&recoOrder=15&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg&utm_medium=email&utm_source=recommendations)
 15. [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg)
 16. [Intermediate Stat](http://www.stat.cmu.edu/~larry/=stat705/)
+17. Stochastic Process
 
 ---
 
