@@ -154,3 +154,5 @@ http://people.duke.edu/~kh269/teaching/b551/schedule.htm
 http://people.duke.edu/~kh269/teaching/b553/schedule.htm
 
 The elements of statistical learning
+
+https://www.coursera.org/learn/bayesian
