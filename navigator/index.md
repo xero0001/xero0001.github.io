@@ -117,14 +117,13 @@ layout: page
 8. Convex Optimization 시작 ✍
 9. Kmooc - 서울대 인공지능 기초 완강 ✔️ 머신러닝 데이터마이닝
 10. Kmooc - 이지형 교수님 강의 완강 ✔️
-11. STAT110 중단 ⏸
-12. Probabilistic Systems Analysis and Applied Probability
+11. STAT110 중단 ✍
+12. [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg) ✍
 13. [Graphical model](https://www.coursera.org/specializations/probabilistic-graphical-models)
 14. [Stat method for ML](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE) or [Stat ML](http://www.stat.cmu.edu/~ryantibs/statml/)
 15. [Learn from Kagglers](https://www.coursera.org/learn/competitive-data-science?authMode=login&recoOrder=15&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg&utm_medium=email&utm_source=recommendations)
-16. [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg)
-17. [Intermediate Stat](http://www.stat.cmu.edu/~larry/=stat705/)
-18. Stochastic Process
+16. [Intermediate Stat](http://www.stat.cmu.edu/~larry/=stat705/)
+17. Stochastic Process
 
 ---
 
@@ -147,6 +146,8 @@ layout: page
 - [확랜프](http://kocw.net/home/search/kemView.do?kemId=444781)
 - [추천 책](https://medium.com/@paulgiseopkim/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%B1%85-%EC%B6%94%EC%B2%9C%EA%B8%80%EC%9D%84-%EB%B2%88%EC%97%AD%ED%95%B4%EB%B3%B4%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%B6%9C%EC%B2%98-http-www-zinkov-com-posts-2012-10-04-ml-book-reviews-871e6b8279d1)
 - [TESL](https://tensorflow.blog/tag/elements-of-statistical-learning/)
+
+- Probabilistic Systems Analysis and Applied Probability
 
 http://people.duke.edu/~kh269/teaching/b551/schedule.htm
 
