@@ -109,15 +109,15 @@ layout: page
 
 1. Andrew Ng Machine Learning 완강 ✔️
 2. Andrew Ng Deep Learning 완강 ✔️
-3. 선형대수학 완강 ✔️ 복습 ✍
+3. 선형대수학 완강 ✔️ 마코프체인
 4. 공학수학 A 완강 ✔️ Convolution 추가
 5. Single Variable Calculus 정리 ✔️
 6. Multivariable Calculus 정리 ✔️
-7. 수치해석 시작 ✍
+7. 수치해석 중단 ⏹
 8. Convex Optimization 시작 ✍
 9. Kmooc - 서울대 인공지능 기초 완강 ✔️ 머신러닝 데이터마이닝
 10. Kmooc - 이지형 교수님 강의 완강 ✔️
-11. STAT110 중단 ✍
+11. STAT110 완강 ✔️ 부등식 마코프체인
 12. [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg) ✍
 13. [Graphical model](https://www.coursera.org/specializations/probabilistic-graphical-models)
 14. [Stat method for ML](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE) or [Stat ML](http://www.stat.cmu.edu/~ryantibs/statml/)
