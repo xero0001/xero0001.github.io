@@ -107,6 +107,7 @@ layout: page
 
 - [ST_01: Introduction to Bayesian Methods](https://xero0001.github.io/machine%20learning/2019/06/02/BM_01/)
 - [ST_02: Conjugate Priors](https://xero0001.github.io/machine%20learning/2019/06/02/BM_02/)
+- [ST_03: Latent Variable Models](https://xero0001.github.io/machine%20learning/2019/06/02/BM_03/)
 
 ---
 
