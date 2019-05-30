@@ -46,7 +46,7 @@ layout: page
 - [EM_09: Bessel Equation](https://xero0001.github.io/mathematics/2019/05/20/EM_09/)
 - [EM_10: Laplace Transform](https://xero0001.github.io/mathematics/2019/05/20/EM_10/)
 - [EM_11: Wrap Up](https://xero0001.github.io/mathematics/2019/05/20/EM_11/)
-- [EM_12: Wrap Up](https://xero0001.github.io/mathematics/2019/05/20/EM_12/)
+- [EM_12: Difference Equation](https://xero0001.github.io/mathematics/2019/05/20/EM_12/)
 
 ## Numerical Analysis by Hyun Min Kim
 
@@ -108,6 +108,8 @@ layout: page
 - [ST_01: Introduction to Bayesian Methods](https://xero0001.github.io/machine%20learning/2019/06/02/BM_01/)
 - [ST_02: Conjugate Priors](https://xero0001.github.io/machine%20learning/2019/06/02/BM_02/)
 - [ST_03: Latent Variable Models](https://xero0001.github.io/machine%20learning/2019/06/02/BM_03/)
+- [ST_04: Expectation Maximization Algorithm](https://xero0001.github.io/machine%20learning/2019/06/02/BM_04/)
+
 
 ---
 
