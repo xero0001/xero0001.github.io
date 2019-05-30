@@ -110,7 +110,6 @@ layout: page
 - [ST_03: Latent Variable Models](https://xero0001.github.io/machine%20learning/2019/06/02/BM_03/)
 - [ST_04: Expectation Maximization Algorithm](https://xero0001.github.io/machine%20learning/2019/06/02/BM_04/)
 
-
 ---
 
 # What to Learn
@@ -125,7 +124,7 @@ layout: page
 8. Convex Optimization 시작 ✍
 9. Kmooc - 서울대 인공지능 기초 완강 ✔️ 머신러닝 데이터마이닝
 10. Kmooc - 이지형 교수님 강의 완강 ✔️
-11. STAT110 완강 ✔️ 부등식 마코프체인
+11. STAT110 완강 ✔️ 마코프체인
 12. [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg) ✍
 13. [Graphical model](https://www.coursera.org/specializations/probabilistic-graphical-models)
 14. [Stat method for ML](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE) or [Stat ML](http://www.stat.cmu.edu/~ryantibs/statml/)
