@@ -105,10 +105,10 @@ layout: page
 
 ## Bayesian Method for Machine Learning
 
-- [ST_01: Introduction to Bayesian Methods](https://xero0001.github.io/machine%20learning/2019/06/02/BM_01/)
-- [ST_02: Conjugate Priors](https://xero0001.github.io/machine%20learning/2019/06/02/BM_02/)
-- [ST_03: Latent Variable Models](https://xero0001.github.io/machine%20learning/2019/06/02/BM_03/)
-- [ST_04: Expectation Maximization Algorithm](https://xero0001.github.io/machine%20learning/2019/06/02/BM_04/)
+- [BM_01: Introduction to Bayesian Methods](https://xero0001.github.io/machine%20learning/2019/06/02/BM_01/)
+- [BM_02: Conjugate Priors](https://xero0001.github.io/machine%20learning/2019/06/02/BM_02/)
+- [BM_03: Latent Variable Models](https://xero0001.github.io/machine%20learning/2019/06/02/BM_03/)
+- [BM_04: Expectation Maximization Algorithm](https://xero0001.github.io/machine%20learning/2019/06/02/BM_04/)
 
 ---
 
