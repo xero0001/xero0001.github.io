@@ -9,7 +9,7 @@ layout: page
 
 # Mathematics
 
-## Linear Algebra by Gilbert Strang
+## Linear Algebra
 
 #### UNIT I: AX = B AND THE FOUR SUBSPACES
 
@@ -31,7 +31,7 @@ layout: page
 - [LA_10: Complex Vectors and Matrices](https://xero0001.github.io/mathematics/2019/05/20/LA_10/)
 - [LA_11: Applications](https://xero0001.github.io/mathematics/2019/05/22/LA_11/)
 
-## Engineering Mathematics by Erwin Kreyszig
+## Engineering Mathematics
 
 #### PART A: Ordinary Differential Equations
 
@@ -48,7 +48,7 @@ layout: page
 - [EM_11: Wrap Up](https://xero0001.github.io/mathematics/2019/05/20/EM_11/)
 - [EM_12: Difference Equation](https://xero0001.github.io/mathematics/2019/05/20/EM_12/)
 
-## Numerical Analysis by Hyun Min Kim
+## Numerical Analysis
 
 - [NA_01: Introduction](https://xero0001.github.io/mathematics/2019/05/07/NA_01/)
 - [NA_02: Non-linear Equation](https://xero0001.github.io/mathematics/2019/05/07/NA_02/)
