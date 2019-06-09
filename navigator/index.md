@@ -114,7 +114,7 @@ layout: page
 
 ---
 
-# What to Learn
+# Learning Progress
 
 1. Andrew Ng Machine Learning 완강 ✔️
 2. Andrew Ng Deep Learning 완강 ✔️
