@@ -60,7 +60,7 @@ layout: page
 
 - [CO_01: Introduction](https://xero0001.github.io/mathematics/2019/06/05/CO_01/)
 - [CO_02: Convexity - Sets and functions](https://xero0001.github.io/mathematics/2019/06/05/CO_02/)
-- CO_03: Convexity - Optimization basics
+- [CO_03: Convexity - Optimization basics](https://xero0001.github.io/mathematics/2019/06/05/CO_03/)
 - CO_04: Canonical problem forms
 
 #### Algorithms I: First-order methods
@@ -167,3 +167,6 @@ The elements of statistical learning
 https://www.coursera.org/learn/bayesian
 
 https://datascienceschool.net/
+
+Design and Analysis of Algorithms  
+https://www.youtube.com/watch?v=EzeYI7p9MjU&t=2s
