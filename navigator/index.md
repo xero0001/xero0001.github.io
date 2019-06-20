@@ -131,8 +131,9 @@ layout: page
 13. [Graphical model](https://www.coursera.org/specializations/probabilistic-graphical-models)
 14. [Stat method for ML](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE) or [Stat ML](http://www.stat.cmu.edu/~ryantibs/statml/)
 15. [Learn from Kagglers](https://www.coursera.org/learn/competitive-data-science?authMode=login&recoOrder=15&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg&utm_medium=email&utm_source=recommendations)
-16. [Intermediate Stat](http://www.stat.cmu.edu/~larry/=stat705/)
-17. Stochastic Process
+16. [Stanford NLP](http://cs224d.stanford.edu/syllabus.html)
+17. [Intermediate Stat](http://www.stat.cmu.edu/~larry/=stat705/)
+18. Stochastic Process
 
 ---
 
