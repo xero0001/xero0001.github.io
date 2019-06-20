@@ -181,3 +181,6 @@ https://www.youtube.com/watch?v=EzeYI7p9MjU&t=2s
 https://www.coursera.org/specializations/aml?recoOrder=2&utm_medium=email&utm_source=recommendations&utm_campaign=4EV2EIu5EemdOAf9ya7Q1g
 
 https://www.quora.com/Can-I-get-a-machine-learning-job-if-I-finish-Andrew-Ngs-Deep-Learning-Specialization
+
+CTC  
+https://gogyzzz.blogspot.com/2018/08/ctc.html
