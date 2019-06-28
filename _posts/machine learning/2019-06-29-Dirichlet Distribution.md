@@ -11,3 +11,5 @@ published: true
 베타 분포는 uniform distribution의 일반화, 혹은 binomial distribution의 연속버전이라고 볼 수 있다.
 
 Dirichlet distribution은 multinomial distribution의 연속버전이다.
+
+베타 분포의 자연스러운 확장이라고 볼 수 있다.
