@@ -116,19 +116,19 @@ layout: page
 
 # Learning Progress
 
-[x] Andrew Ng Machine Learning 완강  
-[x] Andrew Ng Deep Learning 완강  
-[x] 선형대수학 완강  
-[x] 공학수학 A 완강  
-[x] Single Variable Calculus 정리  
-[x] Multivariable Calculus 정리  
+[v] Andrew Ng Machine Learning 완강  
+[v] Andrew Ng Deep Learning 완강  
+[v] 선형대수학 완강  
+[v] 공학수학 A 완강  
+[v] Single Variable Calculus 정리  
+[v] Multivariable Calculus 정리  
 [ ] 수리통계학  
 [ ] 수치해석 중단 ⏹  
-[x] 문일철 교수님 기초 ML  
+[v] 문일철 교수님 기초 ML  
 [ ] Convex Optimization (2/24) ▶️  
 [ ] Kmooc - 서울대 머신러닝 데이터마이닝  
-[x] Kmooc - 이지형 교수님 강의 완강  
-[x] STAT110 완강  
+[v] Kmooc - 이지형 교수님 강의 완강  
+[v] STAT110 완강  
 [ ] [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg) (7/11) ▶️  
 [ ] [Graphical model](https://www.coursera.org/specializations/probabilistic-graphical-models)  
 [ ] [Stat method for ML](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE) or [Stat ML](http://www.stat.cmu.edu/~ryantibs/statml/)  
