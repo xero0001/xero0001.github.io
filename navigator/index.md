@@ -129,13 +129,13 @@ layout: page
 [ ] Kmooc - 서울대 머신러닝 데이터마이닝  
 [v] Kmooc - 이지형 교수님 강의 완강  
 [v] STAT110 완강  
-[ ] [Bayesian Method for ML](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg) (7/11) ▶️  
-[ ] [Graphical model](https://www.coursera.org/specializations/probabilistic-graphical-models)  
-[ ] [Stat method for ML](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE) or [Stat ML](http://www.stat.cmu.edu/~ryantibs/statml/)  
-[ ] [Learn from Kagglers](https://www.coursera.org/learn/competitive-data-science?authMode=login&recoOrder=15&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg&utm_medium=email&utm_source=recommendations)  
-[ ] [Stanford NLP](http://cs224d.stanford.edu/syllabus.html)  
-[ ] [Intermediate Stat](http://www.stat.cmu.edu/~larry/=stat705/)  
-[ ] Stochastic Process  
+[ ][bayesian method for ml](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg) (7/11) ▶️  
+[ ][graphical model](https://www.coursera.org/specializations/probabilistic-graphical-models)  
+[ ][stat method for ml](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE) or [Stat ML](http://www.stat.cmu.edu/~ryantibs/statml/)  
+[ ][learn from kagglers](https://www.coursera.org/learn/competitive-data-science?authMode=login&recoOrder=15&utm_campaign=4sMc0Hs9Eem5a3PcVrpGrg&utm_medium=email&utm_source=recommendations)  
+[ ][stanford nlp](http://cs224d.stanford.edu/syllabus.html)  
+[ ][intermediate stat](http://www.stat.cmu.edu/~larry/=stat705/)  
+[ ] Stochastic Process
 
 ---
 
@@ -179,6 +179,8 @@ https://datascienceschool.net/
 
 Design and Analysis of Algorithms  
 https://www.youtube.com/watch?v=EzeYI7p9MjU&t=2s
+
+https://www.youtube.com/watch?v=ZjoDMpedmHg
 
 https://www.coursera.org/specializations/aml?recoOrder=2&utm_medium=email&utm_source=recommendations&utm_campaign=4EV2EIu5EemdOAf9ya7Q1g
 
