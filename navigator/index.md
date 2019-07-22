@@ -54,6 +54,16 @@ layout: page
 - [NA_02: Non-linear Equation](https://xero0001.github.io/mathematics/2019/05/07/NA_02/)
 - [NA_03: Error Analysis](https://xero0001.github.io/mathematics/2019/05/08/NA_03/)
 
+## Calculus
+
+#### PART A: Single Variable Calculus
+
+- [SC_01](https://xero0001.github.io/mathematics/2019/05/19/SC_01/)
+
+#### PART B: Multi Variable Calculus
+
+- [MC_01](https://xero0001.github.io/mathematics/2019/05/22/MC_01/)
+
 ## Convex Optimization
 
 #### Theorey I: Fundamentals
@@ -70,16 +80,6 @@ layout: page
 - CO_07: Subgradient method
 - CO_08: Proximal gradient descent
 - CO_09: Stochastic gradient descent
-
-## Calculus
-
-#### PART A: Single Variable Calculus
-
-- [SC_01](https://xero0001.github.io/mathematics/2019/05/19/SC_01/)
-
-#### PART B: Multi Variable Calculus
-
-- [MC_01](https://xero0001.github.io/mathematics/2019/05/22/MC_01/)
 
 ---
 
