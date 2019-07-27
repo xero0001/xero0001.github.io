@@ -193,3 +193,5 @@ https://gogyzzz.blogspot.com/2018/08/ctc.html
 
 칼텍
 http://work.caltech.edu/lectures.html#lectures
+
+https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq
